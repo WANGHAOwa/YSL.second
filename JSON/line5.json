@@ -1,0 +1,31 @@
+[
+	{	
+		"link":"http://www.yslbeautycn.com/on/demandware.static/-/Sites-ysl-cn-Library/default/dw6f4d3fad/images/moodboards/newhomepage/st20180319.jpg",
+		"type":"big"
+	},
+	{
+		"link":"http://www.yslbeautycn.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw155a8fa4/Makeup_Pro_img/0000a3n2w6d/00241YSL/VALUESETYSL344.jpg?sw=404&sh=534&sm=fit",
+		"title":"SAY IT IN FUCHSIA - MON PARIS",
+		"content":"爱就粉TA-限量爱在巴黎礼盒 狂野的爱",
+		"picture":"image/16.png",
+		"price":"￥1410",
+		"id":"1"
+	},
+	{
+		"link":"http://www.yslbeautycn.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwa6221ca7/Makeup_Pro_img/0000a3n2w6d/00239YSL/VALUESETYSL323.jpg?sw=404&sh=534&sm=fit",
+		"title":"LIMIT PRODUCT GIFT",
+		"content":"限量四只装礼盒",
+		"picture":"image/16.png",
+		"price":"￥1295",
+		"id":"2"
+	},
+	{
+		"link":"http://www.yslbeautycn.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw7c87725c/Makeup_Pro_img/0000a3n2w6d/00208YSL/VALUESETYSL318.jpg?sw=404&sh=534&sm=fit",
+		"title":"MAKE UP ON THE GO - COMPACT",
+		"content":"即行即妆礼盒 - 粉饼版",
+		"picture":"image/16.png",
+		"price":"￥830",
+		"id":"3"
+	}
+]
+
